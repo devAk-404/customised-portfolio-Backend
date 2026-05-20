@@ -1,0 +1,184 @@
+{
+  "profile": {
+    "name": "Adarsh Kumar",
+    "title": "Full Stack Developer",
+    "tagline": "Building Digital Solutions",
+    "resume": "/Adarsh_CV_FullStack.pdf",
+    "bio": "Full Stack Software Developer with 5 years of experience building scalable backend systems, REST APIs, microservices, and modern frontend applications with React, Angular, Node.js, and cloud platforms.",
+    "avatar": null,
+    "stats": [
+      {
+        "icon": "code",
+        "value": "5+",
+        "label": "Years Coding"
+      },
+      {
+        "icon": "folder",
+        "value": "450+",
+        "label": "Projects Completed"
+      },
+      {
+        "icon": "users",
+        "value": "135+",
+        "label": "Happy Clients"
+      },
+      {
+        "icon": "shield",
+        "value": "100%",
+        "label": "Code Quality"
+      }
+    ],
+    "skills": {
+      "frontend": [
+        "React & Next.js",
+        "TypeScript & JavaScript",
+        "Tailwind CSS"
+      ],
+      "backend": [
+        "Node.js & Express",
+        "MongoDB & PostgreSQL",
+        "AWS & Docker"
+      ]
+    },
+    "workHistory": [
+      {
+        "company": "RIMES, Chennai",
+        "role": "Full Stack Developer",
+        "period": "June 2025 - Feb 2026",
+        "desc": "Developed and maintained a Weather & Disaster Management platform using Angular, Node.js, PostgreSQL, Leaflet.js, REST APIs, JWT, and cloud services for real-time monitoring and district-level workflows."
+      },
+      {
+        "company": "Optimiser, Delhi",
+        "role": "Software Engineer",
+        "period": "June 2023 - April 2025",
+        "desc": "Built scalable MERN and Spring Boot applications, CRM modules, drag-and-drop page builders, calendar integrations, video workflows with AWS Lambda/S3/FFmpeg, and CI/CD deployments on AWS."
+      },
+      {
+        "company": "Tata Consultancy Services, Delhi",
+        "role": "Assistant System Engineer",
+        "period": "Aug 2021 - Jul 2023",
+        "desc": "Led backend development for e-commerce systems, migrated legacy services to Node.js, built catalog/cart/billing/payment APIs, automated email workflows, and maintained Spring Boot ALM systems."
+      }
+    ],
+    "socials": {
+      "github": "#",
+      "linkedin": "#",
+      "twitter": "#",
+      "email": "adarsh.rk518@gmail.com"
+    },
+    "award": "5 Stars in HackerRank Problem Solving and Core Java"
+  },
+  "services": [
+    {
+      "id": "4dbf0f18-db70-468a-873f-e4858156b692",
+      "icon": "code",
+      "title": "Web Development (Frontend + Backend)",
+      "desc": "Building responsive, high-performance web applications using React, Next.js, Node.js, and Express."
+    },
+    {
+      "id": "d5a5c4d8-0e73-496a-b96b-8029b0cb1816",
+      "icon": "api",
+      "title": "API Development & Integration",
+      "desc": "Designing and implementing robust, secure RESTful and GraphQL APIs, with seamless integration to third-party services."
+    },
+    {
+      "id": "b1cf24e7-1f4a-4d6b-a5e5-7dfc7a4f13ca",
+      "icon": "database",
+      "title": "Database Design & Optimization",
+      "desc": "Creating efficient database architectures with MongoDB, PostgreSQL, and MySQL, optimized for performance."
+    },
+    {
+      "id": "597e9368-4f51-4cda-b06f-aecccd0b57ab",
+      "icon": "cloud",
+      "title": "DevOps & Deployment",
+      "desc": "Streamlining development pipelines with Docker, AWS, and CI/CD workflows to ensure reliable, automated deployments."
+    },
+    {
+      "id": "4a4336fe-b20f-4eb0-9ba4-422bb41ca7c0",
+      "icon": "palette",
+      "title": "UI/UX Implementation",
+      "desc": "Translating designs into intuitive, pixel-perfect interfaces using Tailwind CSS and modern frontend frameworks."
+    },
+    {
+      "id": "9c75c23a-3275-41c6-961d-957fa84c8caf",
+      "icon": "wrench",
+      "title": "Maintenance & Support",
+      "desc": "Providing ongoing support, bug fixes, and performance enhancements to keep your applications running smoothly."
+    }
+  ],
+  "projects": [
+    {
+      "id": "006de2d9-1404-4e0b-a122-32b65f47ad14",
+      "title": "Streaming Application",
+      "description": "A premium video streaming platform with upload processing workers, FFmpeg transcoding, Video.js playback, AWS S3 storage, thumbnail generation, and responsive movie-style browsing.",
+      "tech": "Video.js",
+      "stars": 164,
+      "forks": 38,
+      "image": "/streaming-application.png",
+      "liveDemo": "#",
+      "repo": "#",
+      "visibility": "Public",
+      "variant": "streaming"
+    },
+    {
+      "id": "d6181ec6-f8e9-428c-a628-5cc81e61bf8a",
+      "title": "Plumbing Business Web App",
+      "description": "A clean responsive service-business website for plumbing leads, service discovery, Google-review trust signals, appointment booking, enquiry flows, and customer conversion.",
+      "tech": "Next.js",
+      "stars": 128,
+      "forks": 45,
+      "image": "/plumbing-business-web-app.png",
+      "liveDemo": "#",
+      "repo": "#",
+      "visibility": "Public"
+    },
+    {
+      "id": "aa0caad4-b725-4776-a67d-bfda8d1f2486",
+      "title": "Loan CRM",
+      "description": "A responsive loan management CRM dashboard for tracking leads, applications, approval status, disbursed amounts, activities, tasks, reminders, and document workflows.",
+      "tech": "React",
+      "stars": 92,
+      "forks": 30,
+      "image": "/loan-crm.png",
+      "liveDemo": "#",
+      "repo": "#",
+      "visibility": "Public"
+    },
+    {
+      "id": "1f59dfae-c1fc-4191-9657-631bc853a016",
+      "title": "Social Dashboard",
+      "description": "A dashboard for tracking social media analytics and engagement, providing actionable insights for marketing teams.",
+      "tech": "Python",
+      "stars": 76,
+      "forks": 22,
+      "image": null,
+      "liveDemo": "#",
+      "repo": "#",
+      "visibility": "Public"
+    },
+    {
+      "id": "918c4b10-4e9b-41a5-92b8-c8463bca063f",
+      "title": "Real Estate Operations Platform",
+      "description": "An under-development real estate workspace for property listings, lead intake, owner and buyer pipelines, document tracking, site visits, and deal progress visibility.",
+      "tech": "Next.js",
+      "stars": 0,
+      "forks": 0,
+      "image": "/under-development.svg",
+      "liveDemo": "#",
+      "repo": "#",
+      "visibility": "In Development"
+    },
+    {
+      "id": "095bdf2d-f2c0-4d63-8c5b-d7f73ae847e3",
+      "title": "E-Commerce Platform",
+      "description": "An under-development commerce platform with product catalog, cart, checkout, order management, payment workflow, admin controls, and responsive storefront experience.",
+      "tech": "React",
+      "stars": 0,
+      "forks": 0,
+      "image": "/under-development.svg",
+      "liveDemo": "#",
+      "repo": "#",
+      "visibility": "In Development"
+    }
+  ]
+}
