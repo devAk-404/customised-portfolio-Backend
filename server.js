@@ -247,6 +247,20 @@ async function loadPortfolio() {
   };
 }
 
+app.get("/debug/uploads", (req, res) => {
+  const fs = require("fs");
+  const path = require("path");
+
+  const dir = path.join(__dirname, "uploads");
+
+  res.json({
+    __dirname,
+    uploadsDir: dir,
+    exists: fs.existsSync(dir),
+    files: fs.existsSync(dir) ? fs.readdirSync(dir) : []
+  });
+});
+
 app.get('/api/portfolio', async (req, res) => {
   try {
     const portfolio = await loadPortfolio();
