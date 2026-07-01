@@ -14,13 +14,8 @@
       },
       {
         "icon": "folder",
-        "value": "450+",
+        "value": "10+",
         "label": "Projects Completed"
-      },
-      {
-        "icon": "users",
-        "value": "135+",
-        "label": "Happy Clients"
       },
       {
         "icon": "shield",
